@@ -1,7 +1,7 @@
 package main.java.com.estudos.carro;
 
 public class Motorista {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Carro carro = new Carro();
 
         System.out.println("Ligado?: " + carro.ligado);
@@ -17,7 +17,7 @@ public class Motorista {
         carro.aumentarVelocidade();
         carro.gastarCombustivel();
         System.out.println("Aumentando marcha...");
-        System.out.println("Marcha Atual: " + carro.marcha);
+        System.out.println("March a Atual: " + carro.marcha);
         System.out.println("Aumentando velocidade...");
         System.out.println("Velocidade atual: " + carro.velocidade);
         System.out.println("Combustivel gasto...");
