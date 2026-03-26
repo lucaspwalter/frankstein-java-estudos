@@ -1,4 +1,4 @@
-package main.java.com.estudos.banco;
+package main.java.com.estudos.ContaBanco;
 import java.util.Scanner;
 
 public class ContaTerminal {
