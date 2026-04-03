@@ -1,4 +1,4 @@
-package main.java.com.estudos.smarttv;
+package main.java.com.estudos.SmartTv;
 
 public class SmartTv {
     boolean ligada = false;

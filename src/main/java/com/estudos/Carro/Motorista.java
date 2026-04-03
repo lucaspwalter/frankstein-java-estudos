@@ -1,4 +1,4 @@
-package main.java.com.estudos.carro;
+package main.java.com.estudos.Carro;
 
 public class Motorista {
     public static void main(String[] args) {
